@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @tanfeixiang60
+- 👀 I’m interested in Computer Science undergrad mastering Shell scripting. 
+- 🌱 I’m currently learning Interested in automation and system administration tasks.
